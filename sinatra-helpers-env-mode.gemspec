@@ -7,7 +7,7 @@
 
 spec = Gem::Specification.new { |s|
 	s.name         = 'sinatra-helpers-env-mode'
-	s.version      = '0.0.1'
+	s.version      = '0.1.0'
 	s.summary      = "Environment mode Sinatra helpers."
 	s.description  = "Helpers for environment mode handling in Sinatra (development, test, production)."
 	s.author       = "Philipp Kempgen"
